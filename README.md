@@ -17,6 +17,8 @@ I focus on **code quality, problem solving and building efficient solutions** to
 - 📱 Phone:
   - +261 38 38 485 07 (WhatsApp)
   - +261 33 75 106 15
+- 🌐 Portfolio: **https://fanantenana-kanto.vercel.app/** 
+- 💻 Linkedin: **https://www.linkedin.com/in/fanantenana-kanto/**
 
 ---
 
@@ -55,17 +57,11 @@ I focus on **code quality, problem solving and building efficient solutions** to
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FanantenanaKanto&show_icons=true&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=FanantenanaKanto&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FanantenanaKanto&theme=tokyonight" height="180"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanantenanaKanto&layout=compact&theme=tokyonight)
-
----
-
-# 🌐 Connect with Me
-
-<p>
-<a href="mailto:fanantenanakanto27@gmail.com">Email</a> |
-<a href="https://github.com/FanantenanaKanto">GitHub</a>
 </p>
 
 ---
