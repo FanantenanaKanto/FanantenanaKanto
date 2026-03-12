@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi 👋, I'm Fanantenana Kanto
 
-<!--
-**FanantenanaKanto/FanantenanaKanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fullstack Web Developer**  
+📍 Antananarivo, Madagascar  
 
-Here are some ideas to get you started:
+Passionate about **software development and web technologies**, I enjoy creating useful, well-structured and scalable applications.  
+I focus on **code quality, problem solving and building efficient solutions** to real-world needs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently improving my skills in **Fullstack Web Development**
+- 💬 Ask me about **Java, JavaScript, Angular**
+- ⚙️ Stack: **JAVA / JS & Angular**
+- 📫 Email: **fanantenanakanto27@gmail.com**
+- 📱 Phone:
+  - +261 38 38 485 07 (WhatsApp)
+  - +261 33 75 106 15
+
+---
+
+# 🧠 Tech Stack
+
+## Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,cs" />
+</p>
+
+## Frameworks & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=angular,spring,nodejs,express,bootstrap,tailwind" />
+</p>
+
+## Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
+
+## Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+</p>
+
+---
+
+# ⚙️ Development Methods
+
+- Agile Scrum
+- MVC Architecture
+- REST API
+- Object-Oriented Programming (OOP)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FanantenanaKanto&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanantenanaKanto&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect with Me
+
+<p>
+<a href="mailto:fanantenanakanto27@gmail.com">Email</a> |
+<a href="https://github.com/FanantenanaKanto">GitHub</a>
+</p>
+
+---
+
+⭐ *Always learning, building and improving as a developer.*
