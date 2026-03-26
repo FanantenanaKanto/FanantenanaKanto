@@ -57,13 +57,15 @@ I focus on **code quality, problem solving and building efficient solutions** to
 
 # 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=FanantenanaKanto&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FanantenanaKanto&theme=tokyonight" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FanantenanaKanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=FanantenanaKanto&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanantenanaKanto&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FanantenanaKanto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
 </p>
 
 ---
 
-⭐ *Always learning, building and improving as a developer.*
+⭐ *Always learning, building, and improving — in life and in code.*
